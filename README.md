@@ -23,17 +23,6 @@ Bonus features: **playlist support** and **autoplay**.
 * **CSS3** – Styling for layout, buttons, sliders, and animations.
 * **JavaScript (Vanilla JS)** – Audio control, event handling, playlist management, and UI updates.
 
-## 📂 Project Structure
-
-```
-Music-Player/
-│── index.html        # Music player UI  
-│── style.css         # Styling (layout, buttons, progress bar)  
-│── script.js         # Player logic (play, pause, next, prev, playlist)  
-│── songs/            # Folder containing audio files (.mp3, .wav)  
-│── images/           # Album art or icons  
-│── README.md         # Documentation  
-```
 
 ## 🚀 How to Run
 
